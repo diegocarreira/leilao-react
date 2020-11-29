@@ -16,6 +16,8 @@ Na pasta raiz do projeto no terminal, execute o comando:
 
 `npm start` (pode ser necessário executar como administrador, nesse caso utilize: `sudo npm start`)
 
+**O projeto estará rodando em http://localhost:NUMERO_DA_PORTA (geralmente porta padrão é 3000)**
+
 
 ## Dados para login
 
