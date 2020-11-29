@@ -1,0 +1,12 @@
+.formulario{
+  background: #EEE;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid #367dfb
+}
+
+.subtitle{
+  text-align: center;
+  display: block;
+  padding: 10
+}
