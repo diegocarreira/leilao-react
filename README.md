@@ -18,6 +18,13 @@ Na pasta raiz do projeto no terminal, execute o comando:
 
 **O projeto estará rodando em `http://localhost:NUMERO_DA_PORTA` (geralmente porta padrão é 3000)**
 
+## Compilar para produção
+
+Pra compilar o código
+
+`npm run build` (pode ser necessário executar como administrador, nesse caso utilize: `sudo npm run build`)
+
+Então subir o conteúdo da pasta `build` para o servidor.
 
 ## Dados para login
 
