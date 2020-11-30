@@ -7,7 +7,6 @@ import {
 import PagesLeiloesList from 'pages/Leiloes/List/List';
 import PagesLeiloesForm from 'pages/Leiloes/Form/Form';
 import PagesLogin from 'pages/Login/Login';
-// -- toast alert
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css'
 

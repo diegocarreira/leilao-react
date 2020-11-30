@@ -2,7 +2,6 @@
 const Uteis = {};
 
 Uteis.getDateNow = function() {
-  console.log('getDateNow');
   let data = new Date();
 
   let yyyy = data.getFullYear()

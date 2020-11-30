@@ -51,15 +51,11 @@ const ComponentsLeiloesForm = ({ id }) => {
 
   function onchange(ev){
     const {name , value} = ev.target;
-    console.log('name: ',name);
-    console.log('value: ',value);
     setValues({...values, [name]: value});
   }
 
   function onsubmit(ev){
     ev.preventDefault();
-    console.log('values: ',values);
-    // return true;
 
     if(!values.nome){
       try {

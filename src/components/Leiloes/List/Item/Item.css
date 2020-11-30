@@ -2,7 +2,6 @@
   display: block;
   position: relative;
   min-height: 70px;
-  /* max-width: 800px; */
   width: 95%;
   margin: 0px auto 10px auto;
   padding: 15px;
@@ -27,7 +26,6 @@
   display: block;
   color: #13b113;
   margin-top: 5px;
-  /* font-size: 22px; */
 }
 
 .leilao-item .infos{
@@ -39,12 +37,9 @@
   display: block;
   overflow: hidden;
   position: relative;
-  /* display: flex;
-  flex-direction: row; */
 }
 .leilao-item .infos .group{
   display: block;
-  /* background: red; */
   position: relative;
   overflow: hidden;
   margin-top: 5px;;

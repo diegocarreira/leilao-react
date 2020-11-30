@@ -37,7 +37,6 @@ form{
   border-radius: 8px;
   text-decoration: none;
   align-self: flex-end;
-  /* margin-right: 10px; */
 }
 .form-group input[type=submit]:hover{
   background: #367dfb;

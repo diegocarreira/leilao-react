@@ -13,9 +13,7 @@ const PagesLeiloesList = () => {
 
 
   const getLeiloes = () => {
-    console.log('getLeiloes called');
     let aux = (localStorage.getItem("leiloes")) ? JSON.parse(localStorage.getItem("leiloes")) : [];
-    console.log('arrLeiloes: ',aux);
     setArrLeiloes(aux);
   }
 

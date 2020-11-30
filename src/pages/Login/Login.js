@@ -98,7 +98,6 @@ const PagesLogin = () => {
 
     if(usuarioEncontrado){
       if(usuarioEncontrado.status == 1){
-        console.log('FIXME logar!');
         localStorage.setItem('usuarioLogado', usuarioEncontrado.id);
         history.push('/');
       }else{
